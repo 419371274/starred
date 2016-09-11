@@ -6,6 +6,7 @@
 ## Contents
 
   - [C++](#c++)
+  - [CSS](#css)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -23,10 +24,14 @@
 
 - [Toast-PhoneGap-Plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin) - :beers: A Toast popup plugin for your fancy Cordova app
 
+## CSS 
+
+- [hexo-cms-example](https://github.com/netlify-templates/hexo-cms-example) - An example hexo/netlify CMS integration
+
 ## Go 
 
 - [gnvm](https://github.com/Kenshin/gnvm) - Node.js version manager on Windows by GO
-- [lantern](https://github.com/getlantern/lantern) - :zap: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
+- [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 
 ## HTML 
 
@@ -38,6 +43,7 @@
 
 ## Java 
 
+- [spring-data-examples](https://github.com/spring-projects/spring-data-examples) - Spring Data Example Projects
 - [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) - Purified version of Zhihu Daily - 更纯净的知乎日报
 - [SpringAngularApp](https://github.com/dvelopp/SpringAngularApp) - SpringsAngularApp is a sandbox web application with basic user management domain module. It allows you to login and create users and assign roles to them. Single page architecture supported by angular and secured by Spring Security allows using of static HTML pages.  ORM based domain module provides clear management of domain objects with all OOP benefits.  Application uses spring Internationalization and localization mechanisms. Most of business logic covered with unit tests.  Used technologies:  Spring 4 Boot(IOC, MVC, Security, Data, tx, Test) Hibernate 5.0.6 Gradle Git JavaScript, Angular(with some extra modules), Bootstrap, bower. PostgreSQL
 - [spring-rest-service-oauth](https://github.com/royclarkson/spring-rest-service-oauth) - A simple OAuth protected REST service built with Spring Boot and Spring Security OAuth
@@ -56,6 +62,8 @@
 
 ## JavaScript 
 
+- [netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators
+- [JavaEE-Demos](https://github.com/yew1eb/JavaEE-Demos) - JavaEE开源demo学习（spring boot, spring, springmvc, mybatis, mysql, druid, freemarker）
 - [bumblebee](https://github.com/ourai/bumblebee) - CLI tool for front-end team
 - [rocketz](https://github.com/ourai/rocketz) - Upload local files to CDNs
 - [romantic](https://github.com/wangxiao/romantic) - A full stack web project, all by using LeanCloud, as a LeanEngine demo.
@@ -102,7 +110,7 @@
 - [nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continous integration framework based on node.js and selenium webdriver
 - [front-end-collect](https://github.com/foru17/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [angular-bootstrap-confirm](https://github.com/mattlewis92/angular-bootstrap-confirm) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!)
-- [angular-confirm](https://github.com/Schlogen/angular-confirm) - Confirmation modal dialog for AngularJS
+- [angular-confirm](https://github.com/jameskleeh/angular-confirm) - Confirmation modal dialog for AngularJS
 - [vscode-docs](https://github.com/Microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
@@ -140,6 +148,7 @@
 
 ## Others 
 
+- [awesome-design-cn](https://github.com/jobbole/awesome-design-cn) - 设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
 - [css-style-guide](https://github.com/Zhangjd/css-style-guide) - A mostly reasonable approach to CSS and Sass.
 - [develop-guide](https://github.com/qianhaikeji/develop-guide) - 项目开发规范
 - [blog](https://github.com/xufei/blog) - my personal blog
