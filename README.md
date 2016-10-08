@@ -26,10 +26,12 @@
 
 ## CSS 
 
+- [weixin_sogou](https://github.com/iberryful/weixin_sogou) - 爬取微信公众号文章
 - [hexo-cms-example](https://github.com/netlify-templates/hexo-cms-example) - An example hexo/netlify CMS integration
 
 ## Go 
 
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [gnvm](https://github.com/Kenshin/gnvm) - Node.js version manager on Windows by GO
 - [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 
@@ -62,6 +64,8 @@
 
 ## JavaScript 
 
+- [express-mongoose-es6-rest-api](https://github.com/KunalKapadia/express-mongoose-es6-rest-api) - :collision: A boilerplate application for building RESTful APIs Microservice in Node.js using express and mongoose in ES6 with code coverage and JsonWebToken Authentication
+- [adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 - [iview](https://github.com/iview/iview) - UI Components with Vue.js
 - [netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators
 - [JavaEE-Demos](https://github.com/yew1eb/JavaEE-Demos) - JavaEE开源demo学习（spring boot, spring, springmvc, mybatis, mysql, druid, freemarker）
@@ -160,6 +164,7 @@
 
 ## Python 
 
+- [ItChat](https://github.com/littlecodersh/ItChat) - API for Wechat. 微信个人号接口（支持文件、图片上下载）、微信机器人及命令行微信。三十行即可自定义个人号机器人。
 - [WechatSogou](https://github.com/Chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -179,6 +184,7 @@
 
 ## Ruby 
 
+- [huginn](https://github.com/cantino/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [sharetribe](https://github.com/sharetribe/sharetribe) - Open source marketplace platform
 
 ## Shell 
